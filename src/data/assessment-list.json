@@ -1,0 +1,572 @@
+{
+  "title": "Bewertungsliste",
+  "scale": [
+    {
+      "value": 1,
+      "label": "Favorite",
+      "color": "green"
+    },
+    {
+      "value": 2,
+      "label": "Like",
+      "color": "lightGreen"
+    },
+    {
+      "value": 3,
+      "label": "Neutral",
+      "color": "yellow"
+    },
+    {
+      "value": 4,
+      "label": "Maybe under certain circumstances",
+      "color": "lightRed"
+    },
+    {
+      "value": 5,
+      "label": "Limit",
+      "color": "darkRed"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Non-Sexual Intimacy",
+      "items": [
+        {
+          "id": "non-sexual_intamacy_1",
+          "text": "Affection"
+        },
+        {
+          "id": "non-sexual_intamacy_2",
+          "text": "Hugging"
+        },
+        {
+          "id": "non-sexual_intamacy_3",
+          "text": "Cuddling"
+        },
+        {
+          "id": "non-sexual_intamacy_4",
+          "text": "Kissing"
+        },
+        {
+          "id": "non-sexual_intamacy_5",
+          "text": "Messages"
+        }
+      ]
+    },
+    {
+      "name": "Face",
+      "items": [
+        {
+          "id": "face_1",
+          "text": "Blowjob"
+        },
+        {
+          "id": "face_2",
+          "text": "Deepthroat"
+        },
+        {
+          "id": "face_3",
+          "text": "Swallowing"
+        },
+        {
+          "id": "face_4",
+          "text": "Facials"
+        },
+        {
+          "id": "face_5",
+          "text": "Face Fucking"
+        },
+        {
+          "id": "face_6",
+          "text": "Face Sitting"
+        },
+        {
+          "id": "face_7",
+          "text": "Mouth Play"
+        },
+        {
+          "id": "face_8",
+          "text": "Ass to Mouth"
+        }
+      ]
+    },
+        {
+      "name": "Ass",
+      "items": [
+        {
+          "id": "ass_1",
+          "text": "Anal Sex"
+        },
+        {
+          "id": "ass_2",
+          "text": "Barebacking"
+        },
+        {
+          "id": "ass_3",
+          "text": "Toys"
+        },
+        {
+          "id": "ass_4",
+          "text": "Pegging"
+        },
+        {
+          "id": "ass_5",
+          "text": "Fisting"
+        },
+        {
+          "id": "ass_6",
+          "text": "Double Penetration"
+        },
+        {
+          "id": "ass_7",
+          "text": "Rimming"
+        },
+        {
+          "id": "ass_8",
+          "text": "Enema"
+        }
+      ]
+    },
+        {
+      "name": "Toys",
+      "items": [
+        {
+          "id": "toys_1",
+          "text": "Dildos"
+        },
+        {
+          "id": "toys_2",
+          "text": "Plugs"
+        },
+        {
+          "id": "toys_3",
+          "text": "Vibrator"
+        },
+        {
+          "id": "toys_4",
+          "text": "Electric Toy"
+        },
+        {
+          "id": "toys_5",
+          "text": "Large anal Toys"
+        },
+        {
+          "id": "toys_6",
+          "text": "Anal Beads"
+        },
+        {
+          "id": "toys_7",
+          "text": "Anal Hook"
+        },
+        {
+          "id": "toys_8",
+          "text": "Fuck machines"
+        },
+        {
+          "id": "toys_9",
+          "text": "Milking machines"
+        },
+        {
+          "id": "toys_10",
+          "text": "Humbler"
+        },
+        {
+          "id": "toys_11",
+          "text": "Sounding"
+        },
+        {
+          "id": "toys_12",
+          "text": "Spreader Bars"
+        }
+      ]
+    },
+        {
+      "name": "Dom/Sub",
+      "items": [
+        {
+          "id": "dom/sub_1",
+          "text": "Domination"
+        },
+        {
+          "id": "dom/sub_2",
+          "text": "Submission"
+        },
+        {
+          "id": "dom/sub_3",
+          "text": "Discipline"
+        },
+        {
+          "id": "dom/sub_4",
+          "text": "Begging"
+        },
+        {
+          "id": "dom/sub_5",
+          "text": "Breath Play"
+        },
+        {
+          "id": "dom/sub_6",
+          "text": "Sensation Play"
+        },
+        {
+          "id": "dom/sub_7",
+          "text": "Cock Worship"
+        },
+        {
+          "id": "dom/sub_8",
+          "text": "Cock Warming"
+        },
+        {
+          "id": "dom/sub_9",
+          "text": "Domestic Servitude"
+        },
+        {
+          "id": "dom/sub_10",
+          "text": "Slavery"
+        },
+        {
+          "id": "dom/sub_11",
+          "text": "Petplay"
+        },
+        {
+          "id": "dom/sub_12",
+          "text": "Total Power Exchange"
+        }
+      ]
+    },
+        {
+      "name": "Bondage",
+      "items": [
+        {
+          "id": "bondage_1",
+          "text": "Light Bondage"
+        },
+        {
+          "id": "bondage_2",
+          "text": "Heavy Bondage"
+        },
+        {
+          "id": "bondage_3",
+          "text": "Gags"
+        },
+        {
+          "id": "bondage_4",
+          "text": "Collars"
+        },
+        {
+          "id": "bondage_5",
+          "text": "Leashes"
+        },
+        {
+          "id": "bondage_6",
+          "text": "Blindfolds"
+        },
+        {
+          "id": "bondage_7",
+          "text": "Leather cuffs"
+        },
+        {
+          "id": "bondage_8",
+          "text": "Metall cuffs"
+        },
+        {
+          "id": "bondage_9",
+          "text": "Chains"
+        },
+        {
+          "id": "bondage_10",
+          "text": "Mitts"
+        },
+        {
+          "id": "bondage_11",
+          "text": "Gas masks"
+        },
+        {
+          "id": "bondage_12",
+          "text": "Straight jackets"
+        },
+        {
+          "id": "bondage_13",
+          "text": "Sleepsacks"
+        },
+        {
+          "id": "bondage_14",
+          "text": "Cages"
+        },
+        {
+          "id": "bondage_15",
+          "text": "Encasement"
+        },
+        {
+          "id": "bondage_16",
+          "text": "Suspension Play"
+        },
+        {
+          "id": "bondage_17",
+          "text": "Sensory Deprivation"
+        },
+        {
+          "id": "bondage_18",
+          "text": "Gimps"
+        },
+        {
+          "id": "bondage_19",
+          "text": "Predicament Bondage"
+        }
+      ]
+    },
+        {
+      "name": "Pain",
+      "items": [
+        {
+          "id": "pain_1",
+          "text": "Sadism"
+        },
+        {
+          "id": "pain_2",
+          "text": "Masochism"
+        },
+        {
+          "id": "pain_3",
+          "text": "Light Pain"
+        },
+        {
+          "id": "pain_4",
+          "text": "Heavy Pain"
+        },
+        {
+          "id": "pain_5",
+          "text": "Nipple Clamps"
+        },
+        {
+          "id": "pain_6",
+          "text": "Clothes Pins"
+        },
+        {
+          "id": "pain_7",
+          "text": "Caning"
+        },
+        {
+          "id": "pain_8",
+          "text": "Flogging."
+        },
+        {
+          "id": "pain_9",
+          "text": "Spanking"
+        },
+        {
+          "id": "pain_10",
+          "text": "Beating"
+        },
+        {
+          "id": "pain_11",
+          "text": "Biting"
+        },
+        {
+          "id": "pain_12",
+          "text": "Cutting"
+        },
+        {
+          "id": "pain_13",
+          "text": "Scratching."
+        },
+        {
+          "id": "pain_14",
+          "text": "Whipping"
+        },
+        {
+          "id": "pain_15",
+          "text": "Paddels"
+        },
+        {
+          "id": "pain_16",
+          "text": "Bruising"
+        },
+        {
+          "id": "pain_17",
+          "text": "Chocking"
+        },
+        {
+          "id": "pain_18",
+          "text": "Temperature Play"
+        },
+        {
+          "id": "pain_19",
+          "text": "Electro Play"
+        },
+        {
+          "id": "pain_20",
+          "text": "CBT"
+        },
+        {
+          "id": "pain_21",
+          "text": "Ball Busting"
+        }
+      ]
+    },
+    {
+      "name": "Consent",
+      "items": [
+        {
+          "id": "consent_1",
+          "text": "Consensual Non-Consent"
+        },
+        {
+          "id": "consent_2",
+          "text": "Somnophilia"
+        },
+        {
+          "id": "consent_3",
+          "text": "Alcohol"
+        },
+        {
+          "id": "consent_4",
+          "text": "Drugs"
+        },
+        {
+          "id": "consent_5",
+          "text": "Free Use"
+        }
+      ]
+    },   
+    {
+      "name": "Fluids",
+      "items": [
+        {
+          "id": "fluids_1",
+          "text": "Spit"
+        },
+        {
+          "id": "fluids_2",
+          "text": "Sweat"
+        },
+        {
+          "id": "fluids_3",
+          "text": "Watersports"
+        },
+        {
+          "id": "fluids_4",
+          "text": "Scat"
+        },
+        {
+          "id": "fluids_5",
+          "text": "Blood"
+        }
+      ]
+    },
+    {
+      "name": "Fetish",
+      "items": [
+        {
+          "id": "fetish_1",
+          "text": "Foot"
+        },
+        {
+          "id": "fetish_2",
+          "text": "Tickling"
+        },
+        {
+          "id": "fetish_3",
+          "text": "Puppy"
+        },
+        {
+          "id": "fetish_4",
+          "text": "Conditioning"
+        },
+        {
+          "id": "fetish_5",
+          "text": "Hypnotism"
+        },
+        {
+          "id": "fetish_6",
+          "text": "Rubber"
+        },
+        {
+          "id": "fetish_7",
+          "text": "Leather"
+        },
+        {
+          "id": "fetish_8",
+          "text": "Gear"
+        },
+        {
+          "id": "fetish_9",
+          "text": "Humiliation"
+        },
+        {
+          "id": "fetish_10",
+          "text": "Cuckolding"
+        },
+        {
+          "id": "fetish_11",
+          "text": "Feminization"
+        },
+        {
+          "id": "fetish_12",
+          "text": "ABDL"
+        },
+        {
+          "id": "fetish_13",
+          "text": "Findom"
+        }
+      ]
+    },
+    {
+      "name": "Orgasm Control",
+      "items": [
+        {
+          "id": "orgasm_control_1",
+          "text": "Orgasm Control"
+        },
+        {
+          "id": "orgasm_control_2",
+          "text": "Orgasm Denial"
+        },
+        {
+          "id": "orgasm_control_3",
+          "text": "Forced Orgasm"
+        },
+        {
+          "id": "orgasm_control_4",
+          "text": "Edging"
+        },
+        {
+          "id": "orgasm_control_5",
+          "text": "Chastity (short term)"
+        },
+        {
+          "id": "orgasm_control_6",
+          "text": "Chastity (long term)"
+        }
+      ]
+    },
+    {
+      "name": "General",
+      "items": [
+        {
+          "id": "general_1",
+          "text": "Handjobs"
+        },
+        {
+          "id": "general_2",
+          "text": "Nipple Play"
+        },
+        {
+          "id": "general_3",
+          "text": "Scent"
+        },
+                {
+          "id": "general_4",
+          "text": "Praise Kink"
+        },
+        {
+          "id": "general_5",
+          "text": "Glory Hole"
+        },
+        {
+          "id": "general_6",
+          "text": "Bladder Control"
+        }
+      ]
+    }
+  ]
+}
