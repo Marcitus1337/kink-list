@@ -59,10 +59,8 @@ async function handleOpenPdf(event) {
 
   if (unansweredItems.length > 0) {
     const shouldOpenPdf = window.confirm(
-      "Du hast noch nicht alle Einträge für „Selbst“ und „Bei anderen“ beantwortet.\n\n" +
-      "Möchtest du die Bewertungsliste trotzdem als PDF öffnen?\n\n" +
-      "OK = Ja/PDF öffnen\n" +
-      "Abbrechen = Nein/Zurück"
+      "You have not answerd all questions.\n" +
+      "Do you still want to open the PDF?"
     );
 
     if (!shouldOpenPdf) {
@@ -141,11 +139,11 @@ async function handleOpenPdf(event) {
           <h1>{assessmentList.title}</h1>
 
           <div className="assessment-column-label assessment-column-self">
-            Selbst
+            With Yourself
           </div>
 
           <div className="assessment-column-label assessment-column-others">
-            Bei anderen
+            With others
           </div>
         </div>
 
@@ -163,7 +161,7 @@ async function handleOpenPdf(event) {
 
         <div className="submit-area">
           <button className="submit-button" type="submit" disabled={isExporting}>
-            {isExporting ? "PDF wird erstellt..." : "PDF öffnen"}
+            {isExporting ? "PDF is build" : "open PDF"}
           </button>
         </div>
       </form>

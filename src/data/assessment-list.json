@@ -1,5 +1,5 @@
 {
-  "title": "Bewertungsliste",
+  "title": "Kink List",
   "scale": [
     {
       "value": 1,
@@ -148,7 +148,7 @@
         },
         {
           "id": "toys_5",
-          "text": "Large anal Toys"
+          "text": "Large Toys"
         },
         {
           "id": "toys_6",
@@ -160,11 +160,11 @@
         },
         {
           "id": "toys_8",
-          "text": "Fuck machines"
+          "text": "Fuck Machines"
         },
         {
           "id": "toys_9",
-          "text": "Milking machines"
+          "text": "Milking Machines"
         },
         {
           "id": "toys_10",
@@ -262,11 +262,11 @@
         },
         {
           "id": "bondage_7",
-          "text": "Leather cuffs"
+          "text": "Leather Cuffs"
         },
         {
           "id": "bondage_8",
-          "text": "Metall cuffs"
+          "text": "Metall Cuffs"
         },
         {
           "id": "bondage_9",
@@ -278,7 +278,7 @@
         },
         {
           "id": "bondage_11",
-          "text": "Gas masks"
+          "text": "Gas Masks"
         },
         {
           "id": "bondage_12",
@@ -306,10 +306,14 @@
         },
         {
           "id": "bondage_18",
-          "text": "Gimps"
+          "text": "Contact Lenses"
         },
         {
           "id": "bondage_19",
+          "text": "Gimps"
+        },
+        {
+          "id": "bondage_20",
           "text": "Predicament Bondage"
         }
       ]

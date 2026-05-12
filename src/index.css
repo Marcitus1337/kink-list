@@ -10,20 +10,20 @@
   color: #1f2937;
   background: #f8fafc;
 
---green-soft: #22b83a;
---green-strong: #087f23;
+--green-soft: #b7efb0;
+--green-strong: #006b1f;
 
---light-green-soft: #bddf6b;
---light-green-strong: #74a816;
+--light-green-soft: #d8f08a;
+--light-green-strong: #4f7f00;
 
---yellow-soft: #ffc247;
---yellow-strong: #e59f00;
+--yellow-soft: #ffe08a;
+--yellow-strong: #d6a800;
 
---light-red-soft: #ff8f2e;
+--light-red-soft: #ffc08a;
 --light-red-strong: #e85d04;
 
---dark-red-soft: #d91f28;
---dark-red-strong: #8f1111;
+--dark-red-soft: #ff9f9f;
+--dark-red-strong: #7a0c0c;
 
   --page-bg: #f8fafc;
   --card-bg: #ffffff;
@@ -108,7 +108,7 @@ input {
   grid-template-columns: minmax(360px, 1fr) 330px 330px;
   align-items: center;
   column-gap: 36px;
-  min-height: 98px;
+  min-height: 70px;
   padding: 0 40px;
   border-bottom: 1px solid var(--border-color);
 }
