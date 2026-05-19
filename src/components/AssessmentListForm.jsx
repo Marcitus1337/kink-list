@@ -139,11 +139,11 @@ async function handleOpenPdf(event) {
           <h1>{assessmentList.title}</h1>
 
           <div className="assessment-column-label assessment-column-self">
-            With Yourself
+            With Yourself/Active
           </div>
 
           <div className="assessment-column-label assessment-column-others">
-            With others
+            With others/Passive
           </div>
         </div>
 
