@@ -353,25 +353,110 @@ input {
 
 @media (max-width: 760px) {
   .page {
-    padding: 24px 14px 30px;
+    padding: 18px 10px 28px;
+    max-width: none;
   }
 
   .legend {
     justify-content: flex-start;
-    gap: 18px;
+    align-items: flex-start;
+    gap: 12px 18px;
+    flex-wrap: wrap;
+    font-size: 14px;
+    margin-bottom: 18px;
+  }
+
+  .legend-item {
+    gap: 8px;
+  }
+
+  .legend-dot {
+    width: 18px;
+    height: 18px;
   }
 
   .assessment-card {
-    overflow-x: auto;
+    overflow: visible;
+    border-radius: 3px;
   }
 
-  .assessment-header,
-  .item-row {
-    min-width: 840px;
-    grid-template-columns: 320px 230px 230px;
+  .assessment-header {
+    display: block;
+    min-height: auto;
+    padding: 18px 16px;
   }
 
   .assessment-header h1 {
-    font-size: 28px;
+    font-size: 26px;
+    line-height: 1.2;
+    margin-bottom: 0;
+  }
+
+  .assessment-column-label {
+    display: none;
+  }
+
+  .category-title {
+    min-height: 48px;
+    padding: 0 16px;
+    font-size: 17px;
+  }
+
+  .item-row {
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 12px;
+    min-height: auto;
+    padding: 16px;
+  }
+
+  .item-text {
+    font-size: 16px;
+    line-height: 1.45;
+  }
+
+  .answer-group {
+    display: grid;
+    grid-template-columns: 92px 1fr;
+    align-items: center;
+    justify-content: initial;
+  }
+
+  .answer-self::before {
+    content: "Selbst";
+    font-size: 14px;
+    color: var(--text-muted);
+  }
+
+  .answer-others::before {
+    content: "Bei anderen";
+    font-size: 14px;
+    color: var(--text-muted);
+  }
+
+  .rating-radio-group {
+    justify-content: flex-start;
+    gap: 18px;
+  }
+
+  .custom-radio {
+    width: 23px;
+    height: 23px;
+  }
+
+  .radio-label {
+    width: 25px;
+    height: 25px;
+  }
+
+  .submit-area {
+    padding: 22px 16px 18px;
+  }
+
+  .submit-button {
+    width: 100%;
+    min-width: 0;
+    min-height: 50px;
+    font-size: 16px;
   }
 }
